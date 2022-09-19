@@ -94,9 +94,10 @@ function displayQuestion() {
     }
 
     // // reach into the html and grab the button
-    // var theButtonEl = document.querySelector('#start');
+     var theButtonEl = document.querySelector('#start');
     // // add the event listern to the button
-    // theButtonEl.addEventListener('click', function(e) {
+    theButtonEl.addEventListener('click', function(e) {
+    })
     //     // alert or something
     // })
 
